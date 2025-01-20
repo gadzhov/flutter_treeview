@@ -1,3 +1,11 @@
+## [2.0.0+1]
+
+### Updated
+* Updated min sdk to 3.0.0
+
+### Removed
+* Removed some unused colors in the Utilities class
+
 ## [1.0.6+1]
 
 ### Added
